@@ -1,9 +1,5 @@
 # Finance App
 
-## Created By Shiv
-
-Evaluation Date 02-12-2024
-
+## Created By Pragati
 # Deployment Link 
-
 Vercel deployment: [Finance Manager App](https://finance-app-sand-nine.vercel.app/)
